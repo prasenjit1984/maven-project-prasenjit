@@ -49,4 +49,4 @@ src/main/api/.repository/
 .classpath
 .project
 derby.log
-activemq.data/
+activemq-data/
